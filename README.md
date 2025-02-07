@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Java Full-Stack**
 
-- 👨‍💻 All of my projects are available at [https://abhijeetkamalekar15.github.io/Portfolio/](https://abhijeetkamalekar15.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://abhijeetkamalekar15.github.io/Portfolio/)
 
 - 📝 I regularly write articles on [ByteBlog](ByteBlog)
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **abhijeetkamalekar15@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1AftFiVezkRgxqEYlN5fH-3ibqL535VGN/view?usp=sharing](https://drive.google.com/file/d/1AftFiVezkRgxqEYlN5fH-3ibqL535VGN/view?usp=sharing)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1AftFiVezkRgxqEYlN5fH-3ibqL535VGN/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
