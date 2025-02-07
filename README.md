@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [ByteBlog](ByteBlog)
 
-- 💬 Ask me about **MERN, JAVA**
+- 💬 Ask me about **MERN, JAVA, C++**
 
 - 📫 How to reach me **abhijeetkamalekar15@gmail.com**
 
