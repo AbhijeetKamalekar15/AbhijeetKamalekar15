@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijeetkamalekar15&label=Profile%20views&color=0e75b6&style=flat" alt="abhijeetkamalekar15" /> </p>
 
-- 🔭 I’m currently working on **Email Saas**
+- 🔭 I’m currently working on **AI-Powered Email Saas App**
 
 - 🌱 I’m currently learning **Java Full-Stack**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://abhijeetkamalekar15.github.io/Portfolio/)
 
-- 📝 I regularly write articles on [ByteBlog](ByteBlog)
+- 📝 I regularly write articles on [ByteBlog](https://byteblog-sqb3.onrender.com/)
 
 - 💬 Ask me about **MERN, JAVA, C++**
 
